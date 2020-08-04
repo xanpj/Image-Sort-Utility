@@ -1,0 +1,17 @@
+altgraph==0.17
+certifi==2020.4.5.1
+macholib==1.14
+<<<<<<< HEAD
+Pillow==7.1.2
+=======
+>>>>>>> 4665ede6d4dc092b687c17e0cff77e36958f544c
+pocketsphinx==0.1.15
+PyAudio==0.2.11
+PyInstaller==3.6
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+<<<<<<< HEAD
+pytesseract==0.3.4
+=======
+>>>>>>> 4665ede6d4dc092b687c17e0cff77e36958f544c
+SpeechRecognition==3.8.1
